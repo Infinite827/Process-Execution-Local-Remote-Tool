@@ -6,6 +6,8 @@ then the password,
 it will connect and there is a list of options.
 it is very self explanitory just check it out yourself.
 
+# this update feature is only for me when i want to update my entire bat/exe without restarting it
 this tool is very buggy and some bugs like the update feature sometimes
 bugs out when something is wrong, so it
 does not work unless you actually restart the exe
+
