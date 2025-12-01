@@ -8,5 +8,4 @@ it is very self explanitory just check it out yourself.
 
 this tool is very buggy and some bugs like the update feature sometimes
 bugs out when something is wrong, so it
-does not work unless you actually restart the exe or bat.
-(only when i edit it it is for me not you guys.)
+does not work unless you actually restart the exe
